@@ -1,0 +1,17 @@
+{
+    "files.associations": {
+        "hiredis.h": "c",
+        "sds.h": "c",
+        "stdint.h": "c",
+        "time.h": "c",
+        "poll.h": "c",
+        "dict.h": "c",
+        "zmalloc.h": "c",
+        "adlist.h": "c",
+        "linenoise.h": "c",
+        "fcntl.h": "c",
+        "assert.h": "c",
+        "read.h": "c",
+        "stdarg.h": "c"
+    }
+}
